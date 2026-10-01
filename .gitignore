@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (Crucial to ignore!)
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables / Secrets / Configuration
+.env
+*.env
+secrets.py
+
+# VS Code specific files
+.vscode/
+
+#other IDEs and editors
+python
+renamed_example.txt
